@@ -35,7 +35,7 @@ export const CHAIN_KEY_BY_ID: Record<string, ChainKey> = {
   mainnet: 'mainnet',
   '1': 'mainnet',
   hoodi: 'hoodi',
-  '560048': 'hoodi',
+  '999560048': 'hoodi',
   sepolia: 'sepolia',
   '11155111': 'sepolia',
 }
